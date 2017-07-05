@@ -1,0 +1,8 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/vendor/dropzone/js/dropzone.js": "/vendor/dropzone/js/dropzone.js",
+    "/vendor/dropzone/css/dropzone.min.css": "/vendor/dropzone/css/dropzone.min.css",
+    "/vendor/bootstrap-tagsinput/css/bootstrap-tagsinput-typeahead.css": "/vendor/bootstrap-tagsinput/css/bootstrap-tagsinput-typeahead.css",
+    "/vendor/bootstrap-tagsinput/css/bootstrap-tagsinput.css": "/vendor/bootstrap-tagsinput/css/bootstrap-tagsinput.css"
+}

@@ -1,0 +1,40 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 70px;
+  padding-bottom: 20px;
+}
+
+.dropzone {
+  border: 2px dashed rgba(0,0,0,0.3);
+  border-radius: 5px;
+}
+
+.photo-box {
+  background: white;
+  padding: 15px;
+  margin-bottom: 15px;
+  .footer {
+    margin-top: 10px;
+    .detail:not(:last-of-type) {
+      margin-right: 20px;
+    }
+  }
+}
+
+.tag {
+  margin-right: 10px;
+}
+
+.bootstrap-tagsinput {
+  min-width: 200px;
+}
